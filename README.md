@@ -88,7 +88,7 @@ Open `tracin.ipynb` in Jupyter or Colab to start influence tracing and evaluatio
 ## 📄 Report
 
 Full report:  
-📎 [Adversarial-Safenet.pdf](./Adversarial-Safenet.pdf)
+📎 [Adversarial-safenet.pdf](./Adversarial-safenet.pdf)
 
 ---
 
