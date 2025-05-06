@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# PyTorch model checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Dataset caches
+*.zip
+*.tar.gz
+*.csv
+*.tsv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+logs/
+
+# VS Code settings
+.vscode/
+
+# Python egg
+*.egg-info/
+dist/
+build/
