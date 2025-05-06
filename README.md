@@ -85,6 +85,13 @@ Open `tracin.ipynb` in Jupyter or Colab to start influence tracing and evaluatio
 
 ---
 
+## 📄 Report
+
+Full report:  
+📎 [Adversarial-Safenet.pdf](./Adversarial-Safenet.pdf)
+
+---
+
 ## 🙏 Acknowledgments
 
 Special thanks to **Professor Anshuman Chabbra** for the mentorship, and the open-source community behind Hugging Face, Captum, and PyTorch for their incredible tools.
